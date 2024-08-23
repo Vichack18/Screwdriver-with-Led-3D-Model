@@ -1,0 +1,1 @@
+Hi! I made this Screwdriver with a Led inside 3D Model on Autodesk Fusion 360. I shared in this repo the .STL file, so feel free to use it! You can open it with Solidworks, ThinkerCAD and others 3D viewers. See ya!
